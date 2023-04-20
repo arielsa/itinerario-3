@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "itinerario 3", "itinerario 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eventos 1", "eventos 1\eventos 1.csproj", "{A1DB28F7-6C1D-4C36-A2EC-9CD46CB741DF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eventos2", "eventos2\eventos2.csproj", "{3651A25E-FCA9-40EC-BECB-20D726EC3BCE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{A1DB28F7-6C1D-4C36-A2EC-9CD46CB741DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A1DB28F7-6C1D-4C36-A2EC-9CD46CB741DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A1DB28F7-6C1D-4C36-A2EC-9CD46CB741DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3651A25E-FCA9-40EC-BECB-20D726EC3BCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3651A25E-FCA9-40EC-BECB-20D726EC3BCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3651A25E-FCA9-40EC-BECB-20D726EC3BCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3651A25E-FCA9-40EC-BECB-20D726EC3BCE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
